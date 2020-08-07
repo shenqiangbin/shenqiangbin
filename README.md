@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shenqiangbin&layout=compact&theme=radical" />
 </a>
 
-<a href="https://github.com/shenqiangbin/javademo">
+<a href="https://github.com/shenqiangbin/personMgr">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shenqiangbin&repo=javademo&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shenqiangbin&repo=personMgr&theme=radical" />
 </a>    
