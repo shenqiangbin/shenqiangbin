@@ -11,11 +11,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shenqiangbin&layout=compact&theme=radical" />
 </a>
 
-<a href="https://github.com/shenqiangbin/github-readme-stats">
+<a href="https://github.com/shenqiangbin/javademo">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shenqiangbin&repo=github-readme-stats&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shenqiangbin&repo=javademo&theme=radical" />
 </a>    
-<a href="https://github.com/shenqiangbin/shenqiangbin.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shenqiangbin&repo=anuraghazra.github.io&theme=radical" />
-</a>
